@@ -95,9 +95,9 @@ app.use((req,res,next)=>{//middleware to store flash success messages in res.loc
     next();
 })
 
-// app.get("/",(req,res)=>{
-//     res.send("I am groot");
-// });
+app.get("/",(req,res)=>{
+     res.redirect("/listings");
+});
 
 app.get("/demouser", async(req,res)=>{
     
