@@ -190,13 +190,7 @@ During this project, I gained hands-on experience with:
 
 ---
 
-# 👨‍💻 Author
 
-**Harith D.N**
-
-- GitHub: https://github.com/Harithdn
-
----
 
 # 📄 License
 
